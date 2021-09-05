@@ -1,0 +1,13 @@
+.my-container {
+    border: 2px black;
+}
+.my-col {
+    background-color: aquamarine;
+}
+
+.my-div {
+    margin: 10px;
+    padding: 20px;
+    background-color: darkslateblue;
+    color: white;
+}
